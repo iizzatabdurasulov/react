@@ -8,12 +8,15 @@ const App = () => {
     <div>
       <LanguageSwitcher />
       <h2>{t("name")}</h2>
-      <p>
+      <p>``
         {t("apple")}
       </p>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia aperiam modi ex sint optio vero aliquam quam ea fugiat nulla sed, sit architecto labore omnis vitae consequuntur. Exercitationem, fuga quod.</p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum iure ullam pariatur neque? Voluptatum eligendi, facilis commodi perspiciatis, esse natus amet eveniet odit mollitia, dignissimos et vero hic! Dicta, dolorum!
+      </p>
     </div>
   );
 };
 
 export default App;
+
