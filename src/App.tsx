@@ -8,6 +8,9 @@ const App = () => {
     <div>
       <LanguageSwitcher />
       <h2>{t("name")}</h2>
+      <p>
+        {t("apple")}
+      </p>
     </div>
   );
 };
