@@ -11,6 +11,7 @@ const App = () => {
       <p>
         {t("apple")}
       </p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia aperiam modi ex sint optio vero aliquam quam ea fugiat nulla sed, sit architecto labore omnis vitae consequuntur. Exercitationem, fuga quod.</p>
     </div>
   );
 };
